@@ -31,7 +31,7 @@ pod "XXXXXXX"
 
 ## About
 
-<img src="https://github.com/carambalabs/Foundation/raw/master/ASSETS/avatar_rounded.png" width="70" />
+<img src="https://github.com/carambalabs/Foundation/blob/master/ASSETS/avatar_rounded.png?raw=true" width="70" />
 
 This project is funded and maintained by [Caramba](http://caramba.in). We 💛 open source software!
 
