@@ -33,7 +33,7 @@ pod "XXXXXXX"
 
 We :heart: open sourcing at [CarambaLabs](http://caramba.in). Check out our open [source projects](https://github.com/carambalabs/) and do not hesitate to contribute with them. We're looking for developers like you that help us to improve the projects we've been part of and contribute with the community.
 
-If you're interested in contributing check out our [CONTRIBUTING](https://github.com/carambalabs/foundation/CONTRIBUTING.md) and code of [CONDUCT](https://github.com/carambalabs/foundation/CONDUCT.md)
+If you're interested in contributing check out our [CONTRIBUTING](https://github.com/carambalabs/Foundation/blob/master/CONTRIBUTING.md) and code of [CONDUCT](https://github.com/carambalabs/Foundation/blob/master/CONDUCT.md)
 
 ## License
 
