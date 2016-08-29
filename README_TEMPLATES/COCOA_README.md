@@ -29,13 +29,15 @@ pod "XXXXXXX"
 ## References
 > List all the references
 
-## Caramba :heart: Open Source
+## About
 
-We :heart: open sourcing at [Caramba](http://caramba.in). Check out our open [source projects](https://github.com/carambalabs/) and do not hesitate to contribute with them. We're looking for developers like you that help us to improve the projects we've been part of and contribute with the community.
+<img src="https://github.com/carambalabs/Foundation/raw/master/ASSETS/avatar_rounded.png" width="70" />
 
-If you're interested in contributing check out our [CONTRIBUTING](https://github.com/carambalabs/Foundation/blob/master/CONTRIBUTING.md) and code of [CONDUCT](https://github.com/carambalabs/Foundation/blob/master/CONDUCT.md)
+[Caramba](http://caramba.in) :heart: Open Source. Check out our [open source projects](https://github.com/carambalabs/) and do not hesitate to contribute with them. We're looking for developers like you to help us improve the projects we've shared with the community.
 
-Read [our blog](https://blog.caramba.in) or say hi on twitter ([@carambalabs](https://twitter.com/carambalabs)).
+If you're interested in contributing check out our [CONTRIBUTING](https://github.com/carambalabs/Foundation/blob/master/CONTRIBUTING.md) and code of [CONDUCT](https://github.com/carambalabs/Foundation/blob/master/CONDUCT.md) documents.
+
+Read our [blog](http://blog.caramba.in) or say :wave: on twitter [@carambalabs](http://twitter.com/carambalabs)
  
 ## License
 
