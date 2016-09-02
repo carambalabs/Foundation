@@ -1,10 +1,10 @@
 # Contribution
 
-Before working on the project it's very important to understand its value and how it works. You can find that information in the project Documentation *(either in the README file or in the project Wiki)*. All CarambaLabs projects respect the [CODE OF CONDUCT](https://github.com/carambalabs/foundation). Keep it present when contributing with the project. If any of the principles listed there is not followed we'll be forced to take action on that.
+Before working on the project it's very important to understand its value and how it works. You can find that information in the project Documentation *(either in the README file or in the project Wiki)*. All Caramba projects respect the [CODE OF CONDUCT](https://github.com/carambalabs/foundation). Keep it present when contributing with the project. If any of the principles listed there is not followed we'll be forced to take action on that.
 
 ## A note for developers
 
-Are you interested in contributing? Just do it! CarambaLabs projects are also your projects. We created them for the community and you are part of that community. We're open to new contributors, proposals, improvements, bug fixes... If you are a very active contributor we'll also add you as a member of the repository. 
+Are you interested in contributing? Just do it! Caramba projects are also your projects. We created them for the community and you are part of that community. We're open to new contributors, proposals, improvements, bug fixes... If you are a very active contributor we'll also add you as a member of the repository. 
 
 > We're looking forward to your contributions!
 
