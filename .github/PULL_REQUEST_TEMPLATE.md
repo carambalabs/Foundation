@@ -1,4 +1,4 @@
-**Issue:** [Link](https://github.com/carambalabs/XXXX/issues/YYY)
+Resolves https://github.com/carambalabs/XXXX/issues/YYY
 
 ### Short description
 > Describe here the purpose of your PR.
